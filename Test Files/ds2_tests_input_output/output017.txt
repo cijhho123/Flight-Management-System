@@ -1,0 +1,13 @@
+#
+nearestPair
+
+1130	1219
+1106	1254
+#
+narrowRange
+3004	4900	false
+#
+nearestPair
+
+3254	4602
+3392	4661

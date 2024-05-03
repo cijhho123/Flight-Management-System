@@ -1,0 +1,10 @@
+Picolo;300;400
+Vegita;400;400
+Goku;530;400
+Gohan;150;400
+Tranks;40;400
+Mr. Satan;270;100
+Master Roshi;380;100
+Krilin;530;100
+Bu;150;100
+Burma;40;100

@@ -1,0 +1,23 @@
+#
+getPointsInRangeOppAxis
+1529	1566	false
+#
+getPointsInRangeOppAxis
+8	923	false
+270	627
+300	762
+486	524
+923	187
+999	911
+1224	346
+1258	45
+1382	279
+1555	289
+1576	917
+1631	904
+1770	839
+#
+getPointsInRangeOppAxis
+920	1001	true
+923	187
+999	911

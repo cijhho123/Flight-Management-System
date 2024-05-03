@@ -1,0 +1,16 @@
+Rook;30;45
+Knight;120;45
+Bishop;210;45
+Queen;300;45
+King;390;45
+Bishop;480;45
+Knight;570;45
+Rook;660;45
+Pawn;30;140
+Pawn;120;140
+Pawn;210;140
+Pawn;300;140
+Pawn;390;140
+Pawn;480;140
+Pawn;570;140
+Pawn;660;140

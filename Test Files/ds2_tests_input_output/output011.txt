@@ -1,0 +1,23 @@
+#
+getPointsInRangeRegAxis
+868	1901	false
+1990	874
+71	875
+1435	876
+1131	1050
+1405	1159
+1424	1226
+1929	1277
+53	1777
+#
+getPointsInRangeRegAxis
+1352	1370	false
+#
+getPointsInRangeRegAxis
+427	1102	true
+483	600
+563	71
+580	354
+689	573
+829	406
+1048	487

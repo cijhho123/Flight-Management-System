@@ -1,0 +1,13 @@
+#
+nearestPair
+
+1891	4921
+1842	4847
+#
+narrowRange
+483	3766	false
+#
+nearestPair
+
+1065	1485
+1071	1252
