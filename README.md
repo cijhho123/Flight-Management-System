@@ -37,5 +37,3 @@ My answers are available at [Theoretical Part.pdf](Theoretical%20Part.pdf) score
 The responsible class is [GUI.java](Implementation/GUI.java) which was provided by the course staff.
 
 The application can load a JPG image and a TXT file describing which object is present in the image. Using the solution of Section 5, the app allows you to mark a certain area on the image and return the number of objects in the selected area (or the objects themselves). 
-
-You should load the image and its matching special-format TXT file (format described below) first. Then you should choose the desired area by a continued left-click on the mouse followed by dragging to mark the area. The output will be shown below upon releasing the left-click. In some of the methods, the matching points in the data structure will be printed (notice in the standard state, points are not shown on the image).
